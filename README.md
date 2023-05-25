@@ -6,6 +6,8 @@
 3. You can use any **Programming** language.
 ---
 ### 1. Roman to Integer
+
+Participants : Tushar, Parth, Utkarsh, Manali, Kiran, Vivek, Paramanad
 ---
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 
@@ -63,6 +65,8 @@ class Solution {
 ```
 ---
 ### 2. Two Sum
+
+Participants : Nisarg, Parita, Pragati, Mayuri, Ankit, Rishabh
 ---
 Given an array of integers  `nums` and an integer  `target`, return  _indices of the two numbers such that they add up to  `target`_.
 
