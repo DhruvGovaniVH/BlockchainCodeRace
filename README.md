@@ -1,7 +1,8 @@
 # Code Race
 
-#### Rules :
 Time : 30 Mins
+
+#### Rules :
 
 1. You **can't** use **Chat GPT** or any other **AI Tools** to write the program.
 2. You **can't** search on **Google** also as This Programs can be written using the basic programming concepts taught in college.
